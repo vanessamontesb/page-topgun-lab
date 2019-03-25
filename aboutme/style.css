@@ -1,0 +1,80 @@
+header{
+    width: 100%;
+    height: 6px;
+    background:rgb(232, 231, 231);
+}
+
+.middle-section{
+    height: 500px;
+    width: 100%;
+}
+
+.left-part{
+    width: 50%;
+    height: 500px;
+}
+
+.right-part{
+    height: 500;
+    width: 50%;
+
+}
+
+.my-name{
+    height: 30px;
+    width: 100%;
+    color:  #214548;
+    text-align: center;
+    background: #ffb18c3d;
+}
+
+.right{
+    height: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.art{
+    width: 100%;
+    height: 500px;
+    align-content: center;
+}
+
+.art-img{
+    width: 100%;
+    height: 400px;
+}
+
+footer{
+    height: 6px;
+    width: 100%;
+    align-content: center;
+    background:rgb(232, 231, 231);
+}
+
+.contact-me{
+    text-align: center;
+    width: 100%;
+    height: 70px;
+    background: #ffb18c3d;
+}
+
+.photo-container{
+    height: 170px;
+    width: 100%;
+    background: #ffb18c3d;
+}
+
+.photo{
+        height: 170px;
+        width: 170px;
+        border-radius: 15px;
+}
+
+.my-info{
+    padding: 90px 0 0 0;
+    text-align: center;
+    width: 100%;
+    height: 400px;
+}
